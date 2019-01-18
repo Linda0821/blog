@@ -4,8 +4,8 @@
 
 ## Fork 使用
 
-1. 将配置文件的[百度统计](https://github.com/Linda0821/Linda0821.github.io/blob/master/src/js/constants/Config.js#L7)配置修改成自己的账号。
-2. 将配置文件里的 [token](https://github.com/Linda0821/Linda0821.github.io/blob/master/src/js/constants/Config.js#L8) 修改成自己 Github 的 access_token。
+1. 将配置文件的[百度统计](https://github.com/Linda0821/blog/blob/master/src/js/constants/Config.js#L7)配置修改成自己的账号。
+2. 将配置文件里的 [token](https://github.com/Linda0821/blog/blob/master/src/js/constants/Config.js#L8) 修改成自己 Github 的 access_token。
 
 ## 环境搭建
 
@@ -26,7 +26,7 @@ $ npm -v
 - webpack@1.13.2
 
 ```bash
-$ npm install -g webpack@1.13.2
+$ npm install -g webpack@3.1.11
 ```
 
 ## 命令使用
